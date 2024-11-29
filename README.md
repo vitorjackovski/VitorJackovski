@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá eu sou o Vitor Gabriel, Alunos de programação do senai!
 
-<!--
-**vitorjackovski/VitorJackovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorJackovski&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+Essas são as tecnologias que eu tenho praticado e estudado:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Viitor-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
+</div>
+  
+  ##
